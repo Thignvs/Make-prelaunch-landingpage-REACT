@@ -25,4 +25,3 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library# Make-prelaunch-landingpage-REACT
-# Make-prelaunch-landingpage-REACT
